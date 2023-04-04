@@ -12,7 +12,8 @@ This time I tried something more interesting to do inside Native language, then 
 
 ## Project images
 ![HomeScreen](https://user-images.githubusercontent.com/96423969/229942743-91e87e2e-2cd9-4277-830b-380cf37637c0.png)
-![HomeScreen](https://user-images.githubusercontent.com/96423969/229942762-cd2cc2d5-2ce2-4904-a6c3-d2683925fb54.png)
+![AuthScreen](https://user-images.githubusercontent.com/96423969/229942789-1f694a97-fb3c-463b-9b32-c02217b839b3.png)
+
 
 ### Libraries used
 - react-navigation/native
